@@ -1,0 +1,141 @@
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\csc.exe
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\vbc.exe
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\VBCSCompiler.exe
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.dll.config
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.pdb
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\Antlr3.Runtime.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\Newtonsoft.Json.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Helpers.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Mvc.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Optimization.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Razor.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Deployment.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Razor.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\WebGrease.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\Antlr3.Runtime.pdb
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\Newtonsoft.Json.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Optimization.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Razor.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Deployment.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Razor.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Helpers.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Mvc.xml
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.csprojResolveAssemblyReference.cache
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.dll
+D:\2.Projects\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.pdb
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\csc.exe
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\vbc.exe
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\VBCSCompiler.exe
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.dll.config
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.pdb
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\Antlr3.Runtime.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\Newtonsoft.Json.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Helpers.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Mvc.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Optimization.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Razor.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Razor.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\WebGrease.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\Antlr3.Runtime.pdb
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\Newtonsoft.Json.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Optimization.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Razor.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Razor.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Helpers.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Mvc.xml
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.dll
+D:\Google 雲端硬碟\SourceCode\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.pdb
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\csc.exe
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\System.Collections.Immutable.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\System.Reflection.Metadata.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\vbc.exe
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\VBCSCompiler.exe
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\roslyn\VBCSCompiler.exe.config
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.dll.config
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\DingBianDangWeb.pdb
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\Antlr3.Runtime.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.Web.Infrastructure.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\Newtonsoft.Json.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Helpers.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Mvc.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Optimization.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Razor.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Deployment.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Razor.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\WebGrease.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\Antlr3.Runtime.pdb
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\Newtonsoft.Json.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Optimization.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Razor.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Deployment.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Webpages.Razor.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Helpers.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\System.Web.Mvc.xml
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.csprojResolveAssemblyReference.cache
+Z:\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.dll
+Z:\VSO\DingBianDang\DingBianDangWeb\obj\Debug\DingBianDangWeb.pdb
